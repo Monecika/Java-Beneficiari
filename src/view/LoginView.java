@@ -1,8 +1,9 @@
 package view;
 
 import com.formdev.flatlaf.FlatDarkLaf;
-import com.formdev.flatlaf.FlatLightLaf;
 import controller.LoginController;
+import view.components.initLoginComponents;
+
 import javax.swing.*;
 import java.awt.*;
 
